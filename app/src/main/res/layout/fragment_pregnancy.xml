@@ -1,0 +1,115 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_care"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/givingbirth"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/button_background"
+            android:fontFamily="sans-serif"
+            android:text="Giving Birth"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            app:backgroundTint="@null"
+            app:iconGravity="textTop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.15"
+            app:layout_constraintStart_toEndOf="@+id/duringpregnancys"
+            app:layout_constraintTop_toBottomOf="@+id/Inheat"
+            app:layout_constraintWidth_percent="0.45" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/duringpregnancys"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="60dp"
+            android:background="@drawable/button_background"
+            android:fontFamily="sans-serif"
+            android:text="During Pregnancy"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            app:backgroundTint="@null"
+            app:iconGravity="textTop"
+            app:layout_constraintEnd_toStartOf="@+id/givingbirth"
+            app:layout_constraintHeight_percent="0.15"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/catpregnancy"
+            app:layout_constraintWidth_percent="0.45" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/Inheat"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="268dp"
+            android:background="@drawable/button_background"
+            android:fontFamily="sans-serif"
+            android:text="In Heat"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            app:backgroundTint="@null"
+            app:iconGravity="textTop"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_percent="0.15"
+            app:layout_constraintStart_toEndOf="@+id/catpregnancy"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent="0.45" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/catpregnancy"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="268dp"
+            android:background="@drawable/button_background"
+            android:fontFamily="sans-serif"
+            android:text="Cat Pregnancy"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            app:backgroundTint="@null"
+            app:iconGravity="textTop"
+            app:layout_constraintEnd_toStartOf="@+id/Inheat"
+            app:layout_constraintHeight_percent="0.15"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintWidth_percent="0.45" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:background="@color/softred"
+            android:orientation="vertical"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="sans-serif"
+                android:padding="8dp"
+                android:text="PREGNANCY"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                android:layout_margin="8dp">
+            </TextView>
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

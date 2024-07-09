@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_stage_cat"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Stages of Cats"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Kitten"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="371dp"
+                android:layout_height="293dp"
+                android:justificationMode="inter_word"
+                android:text="Cats are considered kittens from 0-6 months of age. At this stage, they are in a vulnerable stage of life and still learning basics like how to vocalize, walk, and even regulate their body temperature. If their mother is present, it should be able to clean, feed, and help newborn kittens stay warm while the role of an owner is to ensure the mother is in good health and that they are in a warm and safe environment but if for some reason the mother cat is not able to care for the kittens, then a fair amount of care is required to help the kittens grow and thrive. \n\nThe owner should plan an immediate visit to veterinarian with the kittens so they can review the kittens' needs, especially relating to feeding and monitoring their progress. "
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Young Adult"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Cats are considered young adult from 6 months to 2 years of age. At this stage, young adult cats do not require as frequent routine medical care as kittens and the reduction in social play combined with the dispersal effect means that inter cat aggression may develop at this stage of life. \n\nConflict may occur when a new cat is introduced. Alternatively, a housemate cat may become the target of aggression following a stressful event such as returning home from a veterinary visit or owing to redirected aggression triggered by a cat outside the home. "
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Adult"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Cats are considered adult from 3 years of age and above. At this stage, adult cats These cats are in the prime of their lives. Fully grown and a bit wiser in the way of the world, their curtain-climbing and tail chasing days are probably behind them. \n\nThey have found their place in the world and are willing to spend considerable time and effort to maintain it. In between naps, cats of this age are often overlooked in terms of veterinary care as they are generally very healthy but keeping up with regular health checks not only alerts you to any potential issues but also keeps them used to being handled. "
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="REFERENCES:\n
+                \nhttp://surl.li/gqkrgu\n
+                \nhttp://surl.li/fnedmc\n
+                \nhttp://surl.li/czsapc"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/softred"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/mRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:foregroundTint="#E91E63">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="231dp"
+                android:layout_height="34dp"
+                android:fontFamily="sans-serif"
+                android:text="STAGES OF CAT"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.54"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.592" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,758 @@
+<resources>
+    <string name="app_name">FURCAT</string>
+    <string name="cat_name">Persian</string>
+
+    <string name="contentDescription">
+        \nThe Persian cat is a medium to large sized breeds, easily identifiable by their round, flat face and long,
+        flowing coats that come in almost every color.Persian cats are gentle, loving companions even if their face makes them look a little grumpy. \n
+        \nOrigin: Iran\n
+        \nBehavior: Sweet, gentle, and affectionate\n
+        \nEnvironment: Persians are homebodies. It’s best to keep them indoors to prevent overheating or tangling up their profuse, long coats.\n
+        \n\n\n\n\n References:\n
+        \nhttps://www.thesprucepets.com/persian-cat-breed-5220970
+
+        </string>
+
+    <string name="contentDescription1">
+          \nCancer is a class of diseases in which cells grow uncontrollably,
+            invade surrounding tissue and may spread to other areas of the body.
+            As with people, cats can get various kinds of cancer.
+            The disease can be localized (confined to one area, like a tumor)
+            or generalized (spread throughout the body).\n
+            \nCANCER SYMPTOMS:\n
+            \n•	Lumps
+            \n•	Swelling
+            \n•	Persistent sores or skin infections
+            \n•	Bad breath
+            \n•	Listlessness
+            \n•	Weight loss
+            \n•	Diarrhea
+            \n•	Scaly
+            \n•	loss of appetite
+            \n•	Difficulty breathing
+
+            \nCANCER TREATMENT/ BASIC CURE:\n
+            \n•	Surgery
+            \n•	Chemotherapy
+            \n•	radiation\n
+            \nPREVENTION:\n
+            \n•	Keeping your cat indoors will protect her from certain skin cancers caused by repeated sun exposure and sunburn.
+            \n•	Breast cancer is a common cancer for cats, but it can be avoided by having your cat spayed before her first heat cycle.
+            \nREMINDERS: Contact your veterinarian immediately if your cat shows any of the clinical signs mentioned on the list above.\n
+            \n\n\n\nREFERENCES:\n
+            \nhttp://surl.li/hykbfg
+
+        </string>
+
+
+    <string name="cat_name1">Himalayan</string>
+
+
+    <string-array name="Cat_Breeds_txt">
+        <item>Persian</item>
+        <item>Himalayan</item>
+        <item>Dragon li</item>
+        <item>Burmese</item>
+        <item>Japanese Bobtail</item>
+        <item>Ceylon</item>
+        <item>Birman</item>
+        <item>Bengal</item>
+        <item>Thai cat</item>
+        <item>Tonkinese</item>
+        <item>Suphalak</item>
+        <item>Singapura</item>
+        <item>Siberian</item>
+        <item>Siamese</item>
+        <item>Raas</item>
+        <item>Korat</item>
+        <item>Oriental Short Hair</item>
+        <item>Turkish van</item>
+        <item>Turkish angora</item>
+        <item>Wila krungthep</item>
+        <item>Khao manee</item>
+    </string-array>
+
+    <string-array name="content_Description_txt">
+        <item> \nThe Persian cat is a medium to large sized breeds, easily identifiable by their round, flat face and long,
+        flowing coats that come in almost every color. Persian cats are gentle, loving companions even if their face makes them look a little grumpy. \n
+            \n
+            \nCOAT LENGTH: Long hair\n
+            \nCOAT COLORS: Blue, black, white, red, cream, chocolate, lilac, silver, golden\n
+            \nCOAT PATTERNS: Tortoiseshell, solid, tabby,  bicolor\n
+            \nEYE COLOR: Copper, blue-green, green, blue, hazel and odd-eyed\n
+            \n\n
+            \nOrigin: Iran\n
+            \nBehavior: Gentle, affectionate, sweet and calm disposition\n
+            \nEnvironment: Persians are homebodies. It’s best to keep them indoors to prevent overheating or tangling up their profuse, long coats.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/ccvnay </item>
+        <item> \nThe Himalayan cat is a cross between the Persian and Siamese breeds.
+            Their beautiful long, silk coats come from their Persian relatives,
+            while the pointed coloring on the ears, tail, face, and paws are thanks to
+            their Siamese ancestry along with their bright blue eyes.\n
+            \n
+            \nCOAT LENGTH: Long hair\n
+            \nCOAT COLOR: White to cream\n
+            \nCOAT PATTERNS: Pointed markings, which can be a wide range of colors including chocolate, seal, blue, lilac, and red\n
+            \nEYE COLOR: Blue\n
+
+            \n\n
+            \nOrigin: Iran\n
+            \nBehavior: Sedate, affectionate, gentle, friendly, and intelligent\n
+            \nEnvironment: The Himalayan cat enjoys being petted and cuddled in a quiet environment.
+            These cats need to live indoors. They do not like loud noises or change.\n
+           \n\n\n\nReferences:\n
+            \nhttp://surl.li/olbspj
+        </item>
+        <item>\nAlso known as the Chinese Li Hua, the Dragon Li cat is an ancient purebred with a distinct
+            wild appearance. Just like their wild ancestors,
+            these cats are known for their independence and intelligence.
+            The Dragon Li is a medium-sized cat with a cobby, rounded body shape and a strong, broad chest.\n
+
+            \n
+            \nCOAT LENGTH: Short and thick\n
+            \nCOAT COLORS: Golden-brown color, with lighter shading on the abdomen.\n
+            \nCOAT PATTERNS: Mackerel tabby pattern\n
+            \nEYE COLOR: Green, gold, and brown\n
+
+            \n\n
+            \nOrigin: China\n
+            \nBehavior: Clever, active, vigilant, friendly\n
+            \nEnvironment:  This breed should be kept inside at all times\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/znakqu\n
+            \nhttp://surl.li/bmhnwx
+
+        </item>
+        <item>\nBurmese cats are medium-sized felines with strong, muscular bodies, rounded heads,
+            and expressive gold eyes and though they look like small cats,
+            they can weigh more than you think. These affectionate and intelligent
+            kitties may descend from an ancient breed in Myanmar (formerly Burma).\n
+
+            \n
+            \nCOAT LENGTH: Short\n
+            \nCOAT COLORS: Sable, platinum, blue, champagne, Chocolate, Lilac, Cream\n
+            \nCOAT PATTERNS: Very straight.\n
+            \nEYE COLOR: Any shade of yellow from chartreuse to amber, with golden yellow preferred.\n
+
+
+            \n\n
+            \nOrigin: Myanmar\n
+            \nBehavior: Friendly, affectionate, sociable with other animals, playful\n
+            \nEnvironment: very comfortable with other Burmese,
+            but they may not get along as well with other breeds.\n
+
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/ifqobw\n
+            \nhttp://surl.li/hepedn
+
+            </item>
+
+        <item>\nThe Japanese bobtail is a petite yet outgoing cat companion.
+            The most notable feature of the breed is the short tail,
+            sometimes referred to as a pom by breed enthusiasts.
+            Resulting from a natural gene mutation, it can be straight, bent, or kinked,
+            but it most often resembles a bunny bushy tail.\n
+
+            \n
+            \nCOAT LENGTH: Short or long hair\n
+            \nCOAT COLORS: White, black, chocolate, cream, red, lilac, and blue\n
+            \nCOAT PATTERNS: Solid, bicolor, tricolor, tabby\n
+            \nEYE COLOR: Any shade, though blue and gold are common as well as odd-eyes\n
+
+            \n\n
+            \nOrigin: Japan\n
+            \nBehavior: Affectionate, friendly, sociable and playful\n
+            \nEnvironment: Japanese bobtails are sociable and agreeable cats.
+            They enjoy the company of human companions but also get along with other cats and dogs.
+            They are adaptable to a wide variety of home environments but should be kept as indoor pets for their safety and well-being.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/psrews</item>
+
+        <item>\nA very rare breed of cat native to Sri Lanka, the body of the Ceylon cat is medium-sized and compact.
+            The legs are medium-sized with fine bones and round feet. The hind legs are higher than the front legs.
+            The head forms a softened triangle of medium size. The eyes are quite large and colors range from green to yellow, the coat is short and silky.\n
+
+            \n
+            \nCOAT LENGTH: Short, fine coat\n
+            \nCOAT COLORS: Black, blue, red, cream, and tortoiseshell.\n
+            \nCOAT PATTERNS: Rings on the tail and typical tabby markings on the head.\n
+            \nEYE COLOR: Yellowish green, golden yellow to brownish yellow.\n
+
+            \n\n
+            \nOrigin: Sri Lanka\n
+            \nBehavior: very active breed, affectionate and sociable, friendly towards other pets,\n
+            \nEnvironment: They are also very active and like climbing to high spots in the house.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/fvhsod
+        </item>
+        <item>\nThe Birman cat is a sweet and affectionate companion with long, silky hair.
+            Birman are color-pointed, which means they have a light-colored
+            body with darker points of color on the face, ears, legs, and tail.
+            Regardless of color, all Birman cats should have four white paws and blue eyes.\n
+
+            \n
+            \nCOAT LENGTH: Medium-long to long, with heavy ruff around the neck\n
+            \nCOAT COLOR: Seal point, blue point, chocolate point, lilac point, seal tabby point, blue tabby point, chocolate tabby point, lilac tabby point, red tabby point, cream tabby point, seal-tortie tabby point, chocolate-tortie tabby point, blue-cream tabby point, lilac-cream tabby point, seal-tortie point, blue-cream point, chocolate-tortie point, lilac-cream point, red point, cream point\n
+            \nCOAT PATTERNS: Colorpoint\n
+            \nEYE COLOR: Blue\n
+
+            \n\n
+            \nOrigin: Myanmar\n
+            \nBehavior:  Gentle, quiet and loving\n
+            \nEnvironment: Birman are so social that they hate to be alone,
+            they tend to prefer a calm environment.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/zepejg</item>
+        <item>\nThe Bengal is a sleek, muscular cat with a wild appearance,
+            enhanced by the bold marbling and spotting on their thick, luxurious coat.
+            Despite their striking appearance, physically there is nothing extreme about their build or structure,
+            as this is a well-balanced cat without any exaggerated features,
+            smallish ears, wedge shaped head, neat paws and athletic outline.\n
+
+            \n
+            \nCOAT LENGTH: Medium\n
+            \nCOAT COLORS: Brown, silver, or snow\n
+            \nCOAT PATTERNS: Spotted and marble\n
+            \nEYE COLOR: Hazel, brown, green, gold or copper\n
+
+            \n\n
+            \nOrigin: India\n
+            \nBehavior: active, affectionate, bold, sociable\n
+            \nEnvironment: Needs a calm environment requiring peaceful surroundings to thrive. The Bengal would love to be an outdoor cat,
+            however given their territorial nature with animals they have not been raised with,
+            their speed, athleticism and taste for mayhem,
+            it is not safe to unleash your Bengal on the wider world\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/bwvqvk
+        </item>
+        <item>\nThe Thai is a medium sized cat, robust and cobby in build, but never large or coarse.
+            Alert and attractive, they have a heart shaped face with large, mobile ears.
+            The Thai cat is a shorthaired cat breed that has a flat, short coat that is really soft in texture.
+            They have a wedge-shaped muzzle, ears that are broad at the base, and a long, flat forehead that distinguishes it from other pointed breeds.\n
+
+            \n
+            \nCOAT LENGTH: Short to very short in length\n
+            \nCOAT COLORS: White, black, gray and red with various markings\n
+            \nCOAT PATTERNS: Color pointed coat\n
+            \nEYE COLOR: Bright blue\n
+
+            \n\n
+            \nOrigin: Thailand\n
+            \nBehavior: can be talkative, strongly bond with their families, very person oriented\n
+            \nEnvironment: The Thai is a bit too athletic and yet sensitive to be allowed outside unsupervised in the real world.
+            This would likely result in them up the tallest tree, stuck and frightened, or due to their exotic looks,
+            stolen or injured.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/xajams
+</item>
+        <item>\nThe Tonkinese is an Oriental type cat with a gently rounded head that has large,
+            open eyes that range from green to light blue in color.
+            Ears are broad and set wide apart giving this cat an intelligent expression.
+            The Tonkinese or ‘Tonk’ has a firm, muscular body that is long and lean,
+            this is accentuated by the very short, fine coat that lies close to the body
+            and has an incredibly silky texture\n
+
+            \n
+            \nCOAT LENGTH: Medium short\n
+            \nCOAT COLORS: Natural Point, Natural Mink, Blue Point, Blue Mink, Champagne Point, Champagne Mink, Platinum Point, Platinum Mink\n
+            \nCOAT PATTERNS: Point, mink, solid\n
+            \nEYE COLOR: Aquamarine\n
+
+
+            \n\n
+            \nOrigin: Thailand\n
+            \nBehavior: Friendly, sociable, playful, intelligent\n
+            \nEnvironment: A secure outdoor cat run or very secure garden will provide the Tonkinese the space to run, jump and climb\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/skfskz
+</item>
+        <item>\nThe Suphalak is a beautiful brown cat whose origin dates to the 18th century.
+            The Suphalak’s coat appears reddish-brown in the sunshine, but it has a chocolate appearance in lower light.
+            The cat has brown whiskers, brown nose leather, bright gold or yellow eyes, and brown paw pads with a pink hue.\n
+
+            \n
+            \nCOAT LENGTH: Short\n
+            \nCOAT COLORS: A rich and even shade of warm brown\n
+            \nCOAT PATTERNS: Solid, tortoiseshell, and tabby\n
+            \nEYE COLOR: Bright yellow\n
+
+            \n\n
+            \nOrigin: Thailand\n
+            \nBehavior: Intelligent, social, playful, friendly\n
+            \nEnvironment: thrives in an environment with ample space and vertical climbing opportunities, secure and hazard-free areas.
+            They need regular playtime and interaction with humans\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/wqhatn
+</item>
+        <item>\nThe Singapura cat, one of the most miniature domestic cat breeds (only four to eight pounds when fully grown),
+            stands out with its sepia fur, big bright eyes, large pointed ears, and muscular physique.
+            Despite its small size, the Singapura is energetic, athletic and are loving,
+            loyal pets that make for years and years of close companionship.\n
+
+            \n
+            \nCoat Length: Short\n
+            \nCoat Colors: Sepia agouti\n
+            \nCoat Patterns: Tabby\n
+            \nEye Color: Green, hazel, or yellow\n
+
+
+            \n\n
+            \nOrigin: Singapore\n
+            \nBehavior: Energetic, intelligent, social\n
+            \nEnvironment: Needs a calm environment and extensive outdoor space\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/dxgdlu\n
+            \nhttp://surl.li/vtdxbd
+</item>
+        <item>\nThe Siberian cat makes for a great companion as they get along really well with everybody,
+            kids and other pets included. Siberian cats have long,
+            triple-layered, water-resistant coats and sturdy,
+            muscular bodies that seem heavy compared to their size.
+            Besides their stunning looks, they adore cuddling, and
+            the Siberian cat personality is so sweet-natured that you’ll love to have them around all the time.\n
+            \n
+            \nCoat Length: Varies from coarse to soft; moderately long to longhaired triple coat with a full collar ruff\n
+            \nCoat Colors: Any color combination or pattern\n
+            \nCoat Patterns: Striped, blotched, spotted (the stripes on their sides are broken up into spots) or shaded tabby patterns (where the pattern is faded out- this can occur in goldens and silvers)\n
+            \nEye Color: All colors\n
+
+            \n\n
+            \nOrigin: Russia\n
+            \nBehavior: Affectionate, bold, sociable\n
+            \nEnvironment: They are flexible in any environment and will be happy to spend most of their time indoor\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/cnftft
+</item>
+        <item>\nLong and lithe, words like elegant and graceful were invented for the Siamese cat.
+            This is a striking breed, recognisable as the Siamese cat even by those who know nothing
+            about cats or even dislike cats.They are affectionate and social and can easily adapt to family life but can also be very curious
+            and energetic so be prepared to keep them entertained with games of fetch or long walks around
+            the neighbourhood.\n
+
+            \n
+            \nCoat Length:Short hair\n
+            \nCoat Colors: Seal, chocolate, blue, and lilac\n
+            \nCoat Patterns: Colorpoint\n
+             \nEye Color: Blue\n
+
+            \n\n
+            \nOrigin:Thailand\n
+            \nBehavior: Highly intelligent affectionate and opinionated,
+            they are considered the extroverts of the feline world.\n
+            \nEnvironment: Needs a calm environment and extensive outdoor space\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/qgucxs
+</item>
+        <item>\nThe Raas is an exquisite representation of the feline kingdom,
+            combining unique physical attributes with a rich personality that endears it to many.
+            Known for its standout features, which may include a luxurious coat, mesmerizing eyes, or
+            distinctive body structure, the Raas captures the essence of what many cat enthusiasts seek in a pet.\n
+
+            \n
+            \nCoat Length:Short\n
+            \nCoat Colors: Blue, Cinnamon\n
+            \nCoat Patterns: Solid, bicolor\n
+            \nEye Color: Blue, green\n
+
+            \n\n
+            \nOrigin: Indonesia\n
+            \nBehavior: Energetic, playful, loyalty\n
+            \nEnvironment: adaptable to any various environments and social settings\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/ndlhiu
+</item>
+        <item>\nThe Korat, also known as the Si-Sawat, known by it distinctive
+            silver-tipped blue-gray coat and heart-shaped face and it is a small-to-medium feline with a sturdy,
+            strong build and lively, alert expression. Its large, prominent green or
+            amber eyes amplify this breed’s expressiveness.
+            Its considered a symbol of good luck in its native Thailand.\n
+
+            \n
+            \nCoat Length: Short hair\n
+            \nCoat Colors: Blue-gray with silver tips\n
+            \nCoat Patterns: Solid only\n
+            \nEye Color: Green\n
+
+            \n\n
+            \nOrigin: Thailand\n
+            \nBehavior: Intelligent, social, friendly, demanding, affectionate\n
+            \nEnvironment: Comfortable and secure environment indoors.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/hyqxja
+</item>
+        <item>\nThe Oriental shorthair is a svelte cat with elegant features and a coat that comes in a rainbow of 300 color variations.
+            This beautiful Oriental shorthair is intelligent, athletic, and vocal and not shy about demanding attention.
+            The Oriental shorthair craves affectionate interaction with their family, both the human members and other pets.\n
+
+            \n
+            \nCoat Length: Short hair\n
+            \nCoat Colors: White, black, gray/blue, brown, orange (300 variations)\n
+            \nCoat Patterns: Solid, shaded, smoke, and tabby\n
+            \nEye Color: Green, blue, gold, yellow\n
+
+            \n\n
+            \nOrigin: Thailand\n
+            \nBehavior: Affectionate, playful, sociable, and vocal\n
+            \nEnvironment: They should in an live environment that balances quiet retreats with areas for exploration and play to cater to their active nature and intelligence.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/gkgdwy\n
+            \nhttp://surl.li/ccvxkq
+</item>
+        <item>\nThe Turkish van is a rugged, large-bodied cat, it is all-white with colored markings on the face and tail only.
+            This type of color pattern is so distinctive that when it appears in other cat breeds it is often called a “van” pattern.
+            These active and athletic felines love to climb, jump and explore. Although they might curl up with you for the occasional cuddle, Turkish vans are more likely to be found roaming the house and following you from room to room, looking for adventure.\n
+
+            \n
+            \nCoat Length: Medium-length hair\n
+            \nCoat Colors: White with colored markings on the head and tail (red, black, blue, tabby, tortoiseshell, or any other color other than Himalayan pattern and colors)\n
+            \nCoat Patterns: Bicolor\n
+            \nEye Color: Amber, blue, or odd-eyed (each eye a different color)\n
+
+            \n\n
+            \nOrigin: Turkey\n
+            \nBehavior: Affectionate, energetic, adventurous, and playful\n
+            \nEnvironment: Adaptable to various living environments but thrive in spaces where they can be active and explore.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/bkruhm\n
+            \nhttp://surl.li/wbexhv
+</item>
+        <item>\nTurkish Angora Known for its long, ballerina-like body and silky fur, the Turkish Angora is considered a treasure in their homeland of Turkey. Despite their delicate appearance and relatively small size, Turkish Angoras are affectionate and playful with their owners, children, and other pets (as long as the other pets know that the Angora is the boss).\n
+
+            \n
+            \nCoat Length: Long hair\n
+            \nCoat Colors: White with lavender, chocolate\n
+            \nCoat Patterns: Tabby, solid, bicolor, Himalayan, calico, tortoiseshell and colorpoint\n
+            \nEye Color: Light blue, sapphire, emerald, green-gold, gold, amber, copper, or two different colors\n
+
+            \n\n
+            \nOrigin: Turkey\n
+            \nBehavior: Playful, social, intelligent, mischievous, and occasionally bossy with other pets\n
+            \nEnvironment: Perfectly adapted to the hot and cold environment.\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/xmucln\n
+            \nhttp://surl.li/ognomb
+</item>
+        <item>\nWila Krungthep also known as the Mocha cat, They have typical cat features such as pale brown mocha coloured cat, almond-shaped eyes with blue or light aqua eye, rounded ears, and a sleek body.\n
+
+            \n
+            \nCoat Length: Short hair\n
+            \nCoat Colors: pale brown mocha\n
+            \nCoat Patterns: Bicolor\n
+            \nEye Color: blue or light aqua eye\n
+
+            \n\n
+            \nOrigin: Thailand\n
+            \nBehavior: Affectionate, playful, curious\n
+            \nEnvironment: Comfortable and safe space\n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/pesidq
+</item>
+        <item>\nKhao Manees are nicknamed the “diamond eye cat” for a good reason.
+            Their most distinctive feature is their eyes which can be two different colors.
+            Their coat is short, smooth and close fitting, covering an athletic and muscular body.
+            Eyes can be blue, gold or odd-eyed one of each colour, with this latter variety being the rarest type of Khao Manee.\n
+
+            \n
+            \nCoat Length: Short hair\n
+            \nCoat Color: White\n
+            \nCoat Patterns: Solid\n
+            \nEye Color: Blue, gold, copper, amber, hazel, or green; eyes may also be odd
+            (multiple colors or shades between eyes or within an eye)\n
+
+            \n\n
+            \nOrigin: Thailand\n
+            \nBehavior: Playful, curious, friendly, and outgoing\n
+            \nEnvironment: Peaceful environment \n
+            \n\n\n\nReferences:\n
+            \nhttp://surl.li/wdzqve\n
+            \nhttp://surl.li/llypcn
+</item>
+    </string-array>
+
+    <string-array name="Cat_Symptoms_desc">
+
+           <item>
+            \nDiabetes in cats is a complex disease caused by either a lack of the hormone insulin or an inadequate response to insulin.
+            When a cat does not produce insulin or cannot utilize it normally, its blood sugar levels elevate and if
+            left untreated, can cause many complicated health problems for a cat.
+            It is important to understand that diabetes is considered a manageable disorder and
+            many diabetic cats can lead happy, healthy lives.\n
+
+            \nDiabetes can be classified as:\n
+            \n•Type I (lack of insulin production)\n
+            \n•Type II (impaired insulin production along with an inadequate response to the hormone).\n
+            \nDIABETES SYMPTOMS:\n
+            \n•	Change in appetite (either increased or decreased)
+            \n•	Weight loss
+            \n•	Excessive thirst
+            \n•	Increased urination
+            \n•	Urinating in areas other than litter box
+            \n•	Unusually sweet-smelling breath
+            \n•	Lethargy
+            \n•	Dehydration
+            \n•	Unkempt hair coat
+            \n•	Urinary tract infection\n
+            \nDIABETES TREATMENT/ BASIC CURE:\n
+            \n•	For most cats, insulin injections are necessary for adequate regulation of blood glucose.\n
+            \n•	Cats who are more stable may respond to oral medication or a high-fiber diet.\n
+            \n•	Cats that are seriously ill require intensive hospitalized care for several days to regulate their blood sugar levels.\n
+            \nPREVENTION: A proper diet and regular exercise can go a long way to avoid the development of feline diabetes. \n
+            \nREMINDERS: Contact your veterinarian immediately if your cat shows any of the clinical signs mentioned on the list above.\n
+            \n\n\n\nReference:\n
+            \nhttp://surl.li/crnnfv
+
+</item>
+        <item>
+            \nRabies is a viral disease that affects the brain and spinal cord of all mammals,
+            including cats, dogs and humans. It is most often transmitted through a bite from an infected animal.
+            Rabies is close to being fatal since there is no treatment or cure for rabies once symptoms appear.\n
+            \nRABIES SYMPTOMS:\n
+            \n•	Changes in behavior
+            \n•	Increased vocalization
+            \n•	Loss of appetite
+            \n•	Weakness
+            \n•	Disorientation
+            \n•	Paralysis
+            \n•	Seizures
+            \n•	Sudden death\n
+            \nPrevention:\n
+            \n•	Vaccinating your cat prevents and protects them from rabies.\n
+            \n•	A cat who is up to date with his vaccinations and who has been bitten by a possibly rabid animal should also be given a rabies booster vaccine immediately and kept under observation for 45 days.\n
+            \nREMINDERS: Animals will not show signs immediately following exposure to a rabid animal and symptoms can be varied and can take months to develop.\n
+            \n\n\n\nReference:\n
+            \nhttp://surl.li/crnnfv
+
+        </item>>
+        <item>
+            \nCats can acquire a variety of intestinal parasites, including some that are commonly referred to as worms.
+            Sometimes cats demonstrate few to no outward signs of infection, and the infestation can go
+            undetected despite being a potentially serious health problem.
+            Some feline parasitic worms are hazards for human health as well.\n
+
+            \nWORMS SYMPTOMS:\n
+            \n•	Diarrhea
+            \n•	Worms visible in stool or segments of worm seen near anus
+            \n•	Bloody stool
+            \n•	Bloating or round, potbellied appearance to abdomen
+            \n•	Weight loss
+            \n•	Vomiting
+            \n•	Constipation
+            \n•	Anemia
+            \n•	Coughing
+            \n•	Trouble breathing\n
+
+            \nWORMS TREATMENT/ BASIC CURE:\n
+            \n• Deworming medications\n
+            \nPREVENTIONS:\n
+            \n•	Keep your cat indoors to avoid exposure to infected cats, rodents, fleas and feces.\n
+            \n•	Make sure your home, yard and pets are flea-free.\n
+            \n•	Practice good hygiene and wear gloves when changing cat litter or handling feces. It’s also important to frequently dispose of stool.\n
+            \n•	Ask your veterinarian to recommend an appropriate internal parasite treatment or prevention program for your cat.\n
+            \nREMINDERS: If you think your cat may have worms, it’s important to bring her to a veterinarian, who can confirm the presence of worms. Avoid self-diagnosis, since worms are not always visible or identifiable.\n
+            \n\n\n\nReference:\n
+            \nhttp://surl.li/hfdqne
+
+        </item>
+        <item>
+            \nAlthough the name suggests otherwise, ringworm is not caused by a worm at all but a fungus that can
+            infect the skin, hair and nails that typically appear on the head, ears and forelimbs.
+            Not uncommon in cats, this highly contagious disease can lead to patchy, circular areas of hair
+            loss with central red rings. Ringworm often spreads to other pets in the household and to humans,
+            too and treatment of ringworm depends on the severity of the infection.\n
+            \nRINGWORM SYMPTOMS:\n
+            \n•	Skin lesions that typically appear on the head, ears and forelimbs.\n
+            \n•	flaky bald patches that sometimes look red in the center.\n
+            \n•	In mild cases, there may be localized areas of redness or simply dandruff\n
+            \n•	It’s also possible for a pet to carry ringworm spores and not show any symptoms whatsoever.\n
+
+            \nRINGWORM TREATMENT/ BASIC CURE:\n
+            \n• A veterinarian may prescribe a shampoo or ointment that contains a special medication to kill the fungus.\n
+            \n• In some cases, oral medications are necessary.\n
+            \n• It is also important to treat the cat’s environment to prevent infection from recurring.\n
+            \nPREVENTION:\n
+            \n•	Keep your cat indoors to minimize the risk of exposure to infected animals.\n
+            \n•	Thoroughly disinfect surfaces where your cat sleeps or hangs out, including their pet carrier.\n
+            \n•	Remove cat hair from your furniture, bedding, and clothing.\n
+            \nREMINDERS: If a cat with ringworm is not properly treated, the lesions can spread over large areas of the animal’s body, causing hair loss and skin infections.
+            \n\n\n\nReference:\n
+            \nhttp://surl.li/fkypvf
+
+        </item>
+
+        <item>
+            \nCancer is a class of diseases in which cells grow uncontrollably,
+            invade surrounding tissue and may spread to other areas of the body.
+            As with people, cats can get various kinds of cancer.
+            The disease can be localized (confined to one area, like a tumor)
+            or generalized (spread throughout the body).\n
+            \nCANCER SYMPTOMS:\n
+            \n•	Lumps
+            \n•	Swelling
+            \n•	Persistent sores
+            \n• Skin infections
+            \n•	Bad breath
+            \n•	Listlessness
+            \n•	Weight loss
+            \n•	Diarrhea
+            \n•	Scaly
+            \n•	loss of appetite
+            \n•	Difficulty breathing \n
+
+            \nBASIC CURE TREATMENT:\n
+            \n•	Surgery
+            \n•	Chemotherapy
+            \n•	radiation \n
+            \nPREVENTION:\n
+            \n•	Keeping your cat indoors will protect her from certain skin cancers caused by repeated sun exposure and sunburn.\n
+            \n•	Breast cancer is a common cancer for cats, but it can be avoided by having your cat spayed before her first heat cycle.\n
+            \nREMINDERS: Contact your veterinarian immediately if your cat shows any of the clinical signs mentioned on the list above.\n
+            \n\n\n\nREFERENCES:\n
+            \nhttp://surl.li/hykbfg
+</item>
+        <item>\nFeline Immunodeficiency Virus FIV Cats infected with feline immunodeficiency virus FIV may not show symptoms until years after the initial infection occurred.
+            Although the virus is slow-acting, a cat’s immune system is severely weakened once the disease takes hold.
+            This makes the cat susceptible to various secondary infections.
+            Infected cats receiving supportive medical care and kept in a stress-free,
+            indoor environment can live relatively comfortable lives for months to years before
+            the disease reaches its chronic stages.\n
+            \nFIV SYMPTOMS:\n
+            \n•	Fever
+            \n•	Anemia
+            \n•	Weight loss
+            \n•	Diarrhea
+            \n•	Inflammation of the gums gingivitis
+            \n•	Inflammation of the mouth stomatitis
+            \n•	hair loss
+            \n•	Sneezing
+            \n•	Discharge from eyes or nose
+            \n•	Frequent urination\n
+
+            \nFIV TREATMENT/ BASIC CURE:\n
+            \n•	Medication for secondary infections
+            \n•	Healthy, palatable diet to encourage good nutrition
+            \n•	Fluid and electrolyte replacement therapy
+            \n•	Anti-inflammatory drugs
+            \n•	Immune-enhancing drugs
+            \n•	Parasite control\n
+            \nPREVENTION:\n
+            \n•	The best way to prevent your cat from contracting the virus is to keep him indoors, avoiding any chance of contact with infected felines.\n
+            \n•	If you walk your cat, keep him on a leash when outdoors.\n
+            \n•	If your cat is going to be spending any time in a cattery or in a home with other felines, make sure all cats have tested negative for FIV.\n
+            \nREMINDERS: Contact your veterinarian immediately if your cat shows any of the clinical signs mentioned on the list above.\n
+            \n\n\n\nREFERENCES:\n
+            \nhttp://surl.li/hykbfg
+</item>
+        <item>\nfeline leukemia virus is a transmittable RNA retrovirus that can severely inhibit a cat’s immune system.
+            It is one of the most commonly diagnosed causes of disease and death in domestic cats.
+            Because the virus does not always manifest symptoms right away, any new cat entering a household
+            and any sick cat should be tested for FeLV.\n
+            \nFelV SYMPTOMS:\n
+            \n•	Loss of appetite and weight loss
+            \n•	Poor coat condition
+            \n•	Fever
+            \n•	Upper respiratory infections
+            \n•	Diarrhea and vomiting
+            \n•	Seizures
+            \n•	Vision
+            \n•	Reproductive problems (in females)
+            \n•	Jaundice
+            \n•	Chronic skin disease
+            \n•	Respiratory distress
+            \n•	Lethargy\n
+
+            \nFelV TREATMENT/ BASIC CURE:\n
+            \nThere is currently no specific treatment for FeLV-infected cats. There is no treatment to eliminate the virus from the body.\n
+            \nPREVENTION:\n
+            \n•	There is a vaccine available for cats who are at risk of contracting FeLV.\n
+            \n•	As with any infectious disease, the best prevention is eliminating sources of exposure.\n
+            \nREMINDERS: Contact your veterinarian immediately if your cat shows any of the clinical signs mentioned on the list above.\n
+            \n\n\n\nREFERENCES:\n
+            \nhttp://surl.li/hykbfg
+</item>
+        <item>\nHeartworm Spread by infected mosquitoes, heartworm is increasingly being recognized as
+            an underlying cause of health problems in domestic cats.
+            Cats are an atypical host for heartworms.
+            Despite its name, heartworm primarily causes lung disease in cats.
+            It is an important concern for any cat owner living in areas densely populated by mosquitoes,
+            and prevention should be discussed with a veterinarian.\n
+            \nHeartworm SYMPTOMS:\n
+            \n•	Persistent cough
+            \n•	Breathing difficulties (panting, wheezing, rapid or open-mouthed breathing)
+            \n•	Depression
+            \n•	Loss of appetite
+            \n•	Weight loss
+            \n•	Sporadic vomiting
+            \n•	Lethargy
+            \n•	Sudden death\n
+
+            \nHeartworm TREATMENT/ BASIC CURE:\n
+            \nUnfortunately, there is no approved drug therapy for heartworm infection in cats, and the drug used to treat infections in dogs is not safe for cats.\n
+            \nPREVENTION:\n
+            \n•	There are several FDA-approved medications available that reliably prevent feline heartworm infection.\n
+            \n•	It’s also a good idea to limit your cat’s exposure to mosquito infested areas\n
+            \n•	Regular checkups are key to detecting early infections\n
+            \nREMINDERS: Contact your veterinarian immediately if your cat shows any of the clinical signs mentioned on the list above.\n
+            \n\n\n\nREFERENCES:\n
+            \nhttp://surl.li/hykbfg
+</item>
+        <item>\nHigh-Rise Syndrome: Many pet parents eagerly open their windows to enjoy the weather during the
+            summer months. Unfortunately, unscreened windows pose a real danger to cats,
+            who fall out of them so often that the veterinary profession has a name for the complaint
+            High-Rise Syndrome. Falls can result in shattered jaws, punctured lungs, broken limbs and pelvises
+            and even death.\n
+            \nHigh-Rise Syndrome SYMPTOMS:\n
+            \n•	Painful abdominal mass
+            \n•	Abdominal distention
+            \n•	Vomiting
+            \n•	Visible wounds
+            \n•	Blood loss
+            \n•	Jaundice
+            \n•	Bleeding or swelling of the mouth
+            \n•	Malaligned limbs \n
+
+            \nHigh-Rise Syndrome TREATMENT/ BASIC CURE:\n
+            \nTreatment depends upon the injuries suffered, but typically includes oxygen for chest trauma, surgery for abdominal injuries or broken bones, and dental work for fractured jaws or teeth.\n
+            \nPREVENTION:\n
+            \nTo keep your cat safe during the summer, take the following precautions:\n
+            \n•	Install snug and sturdy screens in all your windows.\n
+            \n•	If you have adjustable screens, please make sure that they are tightly wedged into window frames.\n
+            \n•	Note that cats can slip through childproof window guards these don’t provide adequate protection!\n
+            \nREMINDERS: Contact your veterinarian immediately if your cat shows any of the clinical signs mentioned on the list above.\n
+            \n\n\n\nREFERENCES:\n
+            \nhttp://surl.li/hykbfg\n
+            \nhttp://surl.li/qmvoov
+</item>
+
+    </string-array>
+
+    <string-array name="Cat_Symptoms">
+        <item>Diabetes</item>
+        <item>Rabies</item>
+        <item>Worms</item>>
+        <item>Ringworm</item>>
+        <item>Cancer</item>
+        <item>Feline Immunodeficiency Virus</item>
+        <item>feline leukemia virus </item>
+        <item>Heartworm</item>
+        <item>High-Rise Syndrome</item>
+
+
+    </string-array>
+
+
+    <string-array name="Cat_Raise_txt">
+        <item>First things to do</item>
+        <item>Second things to do</item>
+        <item>third things to do</item>
+    </string-array>
+    <string name="raise1">
+        <br>One thing You Do</br>
+    </string>
+
+
+
+
+
+
+</resources>

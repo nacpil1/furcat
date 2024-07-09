@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_vaccine"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Vaccine"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="32sp" />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="371dp"
+                android:layout_height="94dp"
+                android:text="Cat vaccines are medically and scientifically proven to combat the incubation and transmission of crippling and fatal feline diseases, this shows the importance of vaccinations to the overall health and longevity of the cat cannot be understated."
+                android:textColor="@color/black"
+                android:justificationMode="inter_word"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Feline Panleukopenia Virus Vaccine (FPV) "
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="The FPV vaccine works by stimulating the cat's immune system to produce antibodies against the virus, providing protection against infection. The vaccine contains a modified or inactivated form of the virus that is incapable of causing the disease but is still recognized by the immune system."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Feline caliciviruses Vaccine (FCV)"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="371dp"
+                android:layout_height="213dp"
+                android:justificationMode="inter_word"
+                android:text="The Feline Calicivirus vaccine is a preventive measure used to protect cats from various strains of the Feline Calicivirus (FCV). FCV is a common respiratory pathogen in cats and can cause symptoms such as sneezing, nasal discharge, oral ulcers, and fever. The vaccine stimulates the cat's immune system to produce antibodies against the virus, helping to prevent infection or reduce the severity of symptoms if exposure occurs. It is typically administered as part of a routine vaccination protocol for kittens and cats, particularly those at higher risk of exposure, such as those in multi-cat households or catteries."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Feline Viral Rhinotracheitis Vaccine (FVR)"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="133dp"
+                android:justificationMode="inter_word"
+                android:text="Feline viral rhinotracheitis (FVR), is a common respiratory infection in cats. The vaccine for FVR is one of the core vaccines recommended for all cats, along with vaccines for feline calicivirus (FCV) and feline panleukopenia virus (FPV). These vaccines are often combined into a single injection known as the FVRCP vaccine."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Rabies Virus Vaccine"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="116dp"
+                android:justificationMode="inter_word"
+                android:text="The rabies virus vaccine is a critical component of preventive healthcare for both animals and humans. Vaccination against rabies is essential for preventing the spread of the disease and protecting individuals who may be at risk of exposure."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Feline Leukemia Virus Vaccine (FeLV)"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="116dp"
+                android:justificationMode="inter_word"
+                android:text="This vaccine for Feline Leukemia Virus is an important tool in preventing the spread of this contagious and potentially deadly disease among cats. FeLV is a retrovirus that attacks the immune system of cats, making them susceptible to various infections and diseases, including certain types of cancer."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="44sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="410dp"
+                app:srcCompat="@drawable/vaccinationdetail" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="44sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="371dp"
+                android:layout_height="176dp"
+                android:justificationMode="inter_word"
+                android:text="REMINDERS: These vaccine must be administered by veterinarian since it is important to note that doctors do not follow a 'one size fits all' protocol for immunizations, but rather treat each patient as an individual and recommend the best possible protocols for that particular cat by looking at their risk factors such as age, overall health and lifestyle that is why if a pet owner chose to vaccinate their pet at home by their own, they could potentially cause a fatal problem on their cat. "
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="42sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="371dp"
+                android:layout_height="98dp"
+                android:justificationMode="inter_word"
+                android:text="REFERENCE:\n\nhttp://surl.li/ftfrvw"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/softred"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/mRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:foregroundTint="#E91E63">
+
+            <TextView
+                android:id="@+id/textView40"
+                android:layout_width="231dp"
+                android:layout_height="34dp"
+                android:fontFamily="sans-serif"
+                android:text="VACCINES"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.54"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.592" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+</FrameLayout>

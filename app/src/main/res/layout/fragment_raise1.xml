@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container1"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="53dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="74dp"
+                android:text="Everything You Need to Know About Raising Your First Cat"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical"
+                android:justificationMode="inter_word"
+                android:text="The decision to adopt your first cat is a monumental one, both for you and for your new cat.Whether you are thinking about getting a cat, or have just adopted your first one, this tutorial has been designed to make your relationship with this special cat a lasting one so the cat has found its forever home."
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="01. Create a Shopping List for Your New Cat"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise1" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="104dp"
+                android:justificationMode="inter_word"
+                android:text="Before you bring your new cat or kitten home, there are a number of things to collect or buy, so your cat will feel like a family member rather than a visitor. Do this a few days in advance to minimize stress for you and your cat on homecoming day."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="02. Prepare a Safe Room for Your Cat"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="378dp"
+                android:layout_height="239dp"
+                app:srcCompat="@drawable/cat_raise2" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="A safe Room doesn't need to be a separate room but could be an empty closet, a corner of your bedroom with a protective screen, or a seldom-used bathroom. The important thing is that your new cat has a place it can call home, where it can retreat and rest. It may voluntarily choose to socialize with you and other family members, but for now, let it decide whether to hide or mingle. It may take several days to a week or more, depending on its history, but your patience at this point will yield exponential results in a happier relationship with your cat in later days."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="03. Cat-Proof Your Home"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise3" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="You've decided where you're going to go to adopt your new kitty; possibly you've already narrowed your selection down to one cat you simply must bring home. You've stocked up on essentials from the shopping list, and you've prepared kitty's safe room. There's only one step left before Homecoming Day, cat-proofing your home to save wear and tear on the household as well as the new arrival.
+
+                \n\nAlthough it will take a bit of time, cat-proofing your home isn't rocket science. It only requires your willingness to get down to a cat's level to spy out hazardous temptations, along with the ability to think like a cat"
+
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="04. Bring Your New Cat Home"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise4" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Happy day! You've completed all your preparations and the big day has finally arrived for bringing your new kitty home. Although everyone is excited, it's probably better not to make this a big family event. Your new baby will probably be stressed enough without a bunch of people competing for its attention, especially if you have young children in the home."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="05. Take Your Cat for Its First Veterinary Visit"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise5" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Your new cats first veterinarian visit is of supreme importance. You'll want to assure yourself of its good health, and get its vaccinations and testing for Feline Immunodeficiency Virus (FIV) and the Feline Leukemia Virus (FeLV), if not already done by the adopting agency. Also, unless this has already been performed, you need to set up an appointment for a spay or neuter of your new cat.
+                              \n\nPrepare in advance for the possible question, Do you want a declaw with that neuter? The correct answer, of course, is No, thank you. My cat needs its claws."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="06. Know Your Cats Diet"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise6" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="The diet a cat gets early in life will set the pace for its lifelong health and well-being. Your knowledge of cat food ingredients will help ensure not only longevity but the quality of life you want for your new family memmber \n\nAlthough cats descend from desert creatures, fresh water is also essential to them, especially if they eat a dry food diet.\n
+                              \nMake sure you read cat food labels to know what you're feeding your new family member. You should review for weeks and months ahead until you feel secure in your knowledge. Once you learn to read cat food labels it will become a habit for life.\n
+                              \nA source of clean, fresh water is also vital to your cat's well-being. Although cats have descended from desert animals, they still need to be well-hydrated."
+
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="371dp"
+                android:layout_height="60dp"
+                android:text="07. Get a Litter Box and Take Care of Sleeping Arrangements"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="233dp"
+                app:srcCompat="@drawable/cat_raise7" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Next to food and water a litter box is critical for your new cat's comfort and health. With scrupulous maintenance of your cat's litter box, you'll never have to worry about odor or out-of-box accidents.\n
+
+                \nBut the cat goes outdoors, you say? You'll want to rethink that decision in one of the later steps.\n
+                \nAnother big consideration with your first cat is where will it sleep? Will you share your own bed with it, get it his own cozy bed, or a combination of both? Don't forget, you are establishing habits that will most likely last a lifetime."
+
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="08. Take Care of Your Cat's Scratching Needs"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise8" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Next to litter box avoidance, undesirable scratching behavior is the top reason for shelter surrenders. Actually, scratching is as necessary to cats as eating and breathing. Cats' claws are their most essential tools for many reasons.\n
+                              \nWhen you complete this lesson, you'll have all the tools you'll need to ensure your cat the scratching, stretching exercise it needs, without sacrificing your hard-earned carpet and furniture."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="371dp"
+                android:layout_height="32dp"
+                android:text="09. Play With Your Cat"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise9" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text= "Playing with your cat is a wonderful bonding experience. Cats love to play and are experts in inventing their own games. Before you invest in expensive cat toys, experiment with things found around the house. Paper bags are great fun, as are cardboard boxes. Wearing cat brush gloves while petting them or playing with them or petting them is a convenient way to clean them between baths."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="371dp"
+                android:layout_height="64dp"
+                android:text="10. Determine If Your Cat Spends Time Indoors or Outdoors"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise10" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text= "If you feel that cats really need fresh air and the sunshine, there are safe alternatives for the outdoor experience. If you have an enclosed deck, that's an option. You can also try leash-training your cat so you don't have to worry about the cat encountering other animals outside."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="11. Make Your Cat a Family Member for Life"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_raise11" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text= "As time passes, your bonding with your new cat will become stronger than ever, and you and your family will consider your cat a valued family member rather than a pet."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Indoor Cat Raising"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Indoor raising of cats involves keeping their feline companion exclusively inside the confines of their home. This approach is favored by many pet owners due to the increased safety and health benefits it offers to the cat.\n
+                              \nPros and Cons of Indoor Cat Raising\n
+                              \nOne of the major drawbacks of indoor cat raising is without the variety of environments and activities available outdoors, indoor cats can become bored, leading to behavioral issues and can lead to obesity risk since indoor cats may be less active than their outdoor counterparts, increasing the risk of obesity and related health issues.\n
+                              \nThe best thing about indoor cat raising is that they are protected from various outdoor hazards, including traffic, predators, poisons, and diseases from other animals and on average, indoor cats live longer than outdoor cats due to reduced exposure to life-threatening risks as well as it is easier to monitor health, behavior changes, and diet in an indoor environment, allowing for timely veterinary care.\n"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Outdoor Cat Raising"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Outdoor cats have the freedom to explore outside the confines of their home. This can include a backyard, neighborhood, or beyond, depending on their territory range. They can interact with the natural environment, hunt, climb, and engage in social interactions with other cats. The level of outdoor access can vary, from supervised outings to free-roaming without restriction.\n
+                              \nPros and Cons of Indoor Cat Raising\n
+                              \nOne of the biggest disadvantages of outdoor cat raising are facing dangers such as traffic, poisons, and the risk of getting trapped or lost. Health Risks: Exposure to other cats and wildlife increases the risk of contracting diseases, parasites and injuries from fights.\n
+                              \nThe good thing about outdoor cat raising is that they can express their natural instincts fully, such as hunting, climbing, exploring and can help physical exercise in wide range of activities available outdoors helps keep cats physically fit and can reduce the risk of obesity.\n"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView28"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="REMINDERS: If you suspect your pet is sick, call your vet immediately. For health-related questions, always consult your veterinarian, as they have examined your pet, know the pet's health history, and can make the best recommendations for your pet."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView29"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="REFERENCES:\nhttp://surl.li/zvvglt"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/softred"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/mRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:foregroundTint="#E91E63">
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="192dp"
+                android:layout_height="38dp"
+                android:fontFamily="sans-serif"
+                android:text="CAT RAISE"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.54"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.592" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

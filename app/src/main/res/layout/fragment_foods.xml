@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_foods"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Cat Food"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Wet Food"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_food1" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="371dp"
+                android:layout_height="114dp"
+                android:justificationMode="inter_word"
+                android:text="Wet cat food, also known as canned cat food or pouches, is a popular dietary choice for feline companions, characterized by its high moisture content. This type of cat food comes in various textures, such as pâté, chunks in gravy, and shredded meat, catering to different feline preferences."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="232dp"
+                app:srcCompat="@drawable/cat_food2" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="371dp"
+                android:layout_height="27dp"
+                android:justificationMode="inter_word"
+                android:text="Daily Diet For Wet Food"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Dry Food"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_food3" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="371dp"
+                android:layout_height="114dp"
+                android:justificationMode="inter_word"
+                android:text="Dry cat food, commonly known as kibble, is a popular choice among pet owners for its convenience and long shelf life. It consists of small, dry pellets that are created through a process called extrusion"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="232dp"
+                app:srcCompat="@drawable/cat_food4" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="371dp"
+                android:layout_height="27dp"
+                android:justificationMode="inter_word"
+                android:text="Daily Diet For Dry Food"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Wet and Dry Food"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_food5" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="91dp"
+                android:justificationMode="inter_word"
+                android:text="Feeding a combination of wet and dry cat food, often referred to as mixed feeding, provides a balanced approach to meet the nutritional and hydration needs of cats. This method leverages the benefits of both food types, aiming to optimize health, enjoyment, and dietary variety for cats. "
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="18dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="114dp"
+                android:text="REMINDER: If they plan to feed their cat a combination of dry and wet food, the math gets a little trickier. They will need to look at the calories on the dry and wet cat food labels to calculate the total number of calories in each and decrease serving sizes to still meet the total daily caloric recommendation."
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Homemade Food"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_food6" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="114dp"
+                android:justificationMode="inter_word"
+                android:text="Homemade cat food refers to meals that are prepared at home using fresh ingredients specifically chosen to meet the nutritional needs of cats. This can include a variety of protein sources, vegetables, and supplements to ensure a balanced diet for their feline friend"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="259dp"
+                app:srcCompat="@drawable/cat_food7" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="371dp"
+                android:layout_height="27dp"
+                android:justificationMode="inter_word"
+                android:text="List For Homemade Food"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="18dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="371dp"
+                android:layout_height="114dp"
+                android:text="REMINDER: It is important to consult with a veterinarian or pet nutritionist to ensure that the homemade cat food recipes provide all the necessary nutrients for their cat's health. "
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="18dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="371dp"
+                android:layout_height="175dp"
+                android:justificationMode="inter_word"
+                android:text="REFERENCE: \n\nhttp://surl.li/gyiavo\n \nhttp://surl.li/tehcnv\n
+                              \nPhoto Credit: \n \nhttp://surl.li/hygbjt"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/softred"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/mRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:foregroundTint="#E91E63">
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="231dp"
+                android:layout_height="34dp"
+                android:fontFamily="sans-serif"
+                android:text="FOODS"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.54"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.592" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+</FrameLayout>

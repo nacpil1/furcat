@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"
+
+        />
+    <item
+        android:id="@+id/map"
+        android:title="Pet Facilities"
+        android:icon="@drawable/location"
+        />
+
+    <item
+        android:id="@+id/care"
+        android:title="care"
+        android:icon="@drawable/raise"
+        />
+    <item
+        android:id="@+id/symptom"
+        android:title="Health"
+        android:icon="@drawable/health"
+        />
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/person"
+        />
+</menu>

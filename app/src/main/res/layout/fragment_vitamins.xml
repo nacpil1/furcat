@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_vitamins"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Vitamins"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="32sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="28dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Vitamins are essential for growth, metabolism, and fighting diseases. Cats who are vitamin deficient can develop skin and coat problems, weight loss or poor growth, lethargy, and neurologic problems. \n\nCommercially available cat foods contain all the vitamins that cats need to thrive, these vitamins are stated on cat food labels. It is also advisable that always talk to a veterinarian before adding anything to their cat’s diet since getting too much or the wrong type of a vitamin can sometimes be just as dangerous as getting too little."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="There are reason why cat might need vitamins and these are if their cat is older or has a poor appetite, they may not be getting all the nutrients they want for them, another reason they may want to give their cat vitamins if they are fed a homemade diet. While homemade diets can be nutritious, they may not contain all the vitamins and minerals for a cat. In these cases, vitamins may help to support the cat in getting all these supportive nutrients"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Vitamin A"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Vitamin A is essential for cats' vision, growth, reproduction, and maintaining the health of their skin and coat. It also plays a crucial role in supporting their immune system and overall well-being. Adequate levels of vitamin A in a cat's diet help prevent vision problems, support healthy growth, and promote a shiny coat. However, it is important to provide the right amount of vitamin A, as excessive intake can lead to toxicity."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Vitamin B"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Vitamin B is important in cat for various bodily functions, including energy metabolism and maintaining a healthy coat and skin. Ensuring their cat gets enough vitamin B in their diet can help them stay active, alert, and maintain their overall well-being."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Vitamin D"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Vitamin D is crucial for cats bone health as it helps regulate calcium and phosphorus levels in the body, which are essential for bone formation and maintenance. Adequate vitamin D intake ensures proper bone growth and development, as well as the prevention of conditions like rickets and osteomalacia. However, it is important to provide the right amount of vitamin D as excessive intake can lead to toxicity."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Vitamin E"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Vitamin E is also important for cats' health, serving as an antioxidant that helps protect cells from damage caused by free radicals. It also plays a role in immune function, skin health, and muscle function. Cats can obtain vitamin E through their diet, typically from ingredients like meat and fish."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="REMINDER: It's always a good idea to speak with your  veterinarian before giving your cat any type of supplement, including multivitamins. They can help you to determine if your cat would benefit from taking a multivitamin and, if so, which product would be best for them"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="REFERENCE: \n\nhttp://surl.li/ezcyoa"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/softred"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/mRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:foregroundTint="#E91E63">
+
+            <TextView
+                android:id="@+id/textView32"
+                android:layout_width="231dp"
+                android:layout_height="34dp"
+                android:fontFamily="sans-serif"
+                android:text="VITAMINS"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.54"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.592" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+</FrameLayout>

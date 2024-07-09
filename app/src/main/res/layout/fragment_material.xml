@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_material"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="72dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="367dp"
+                android:layout_height="52dp"
+                android:text="Material for Cat Raising"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Cat Pen"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/material1" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Cat Pen is used as permanent or a temporary structure intended to confine a cat or multiple cats to a designated space for the cat to experience the outside. It can also use when adding a new cat to the household where other pets already reside takes time, patience and planning. Using cat pen can give the new pet time and space to acclimate to its surroundings, while other household pets get to know her and her scent from between the bars. \n
+                \nCat pen varies from different sizes such as size of at least 0.85 square meters and an exercise area of at least 1.7 square meter can fit a single cat, size of at least 1.5 square meters and an exercise area of at least 2.23 square meter can fit two cats, and size of at least 1.85 square meters and an exercise area of at least 2.8 square meter can fit up to four cats. "
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Cat Litter Box"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/material2" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Cat Litter Box is a container that consist of pulverized absorbent clay used for lining a box that provides an ideal environment for pet cats in eliminating their waste. It is a must have for cat owners since it provides clean and safe environment, especially since many indoor cats do not have easy access to soil. \n
+                \nCat litter has small size of 40X33.5X17cm that can contain 12 liters of cat litter and can occupy by one cat and large with a 48X40X21cm that can contain 18 or 24 liters of cat litter that can occupy by 2-3 cats"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Cat Carrier"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/material3" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Cat carrier is important for keeping their cat safe and secure. It is used for vacation travel or vet visits by preventing the cat from getting loose and can keep them contained while traveling. Cat Carrier can be made of nylon, plastics and cardboard and they come from various sizes like small that can occupy 1 cat, medium that can occupy 2 cats and large that can occupy 3 cats"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Bed"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/material4" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="A cat bed is a specialized piece of furniture designed to provide comfort and a cozy resting place for domestic cats. It typically consists of soft padding or cushioning enclosed within a structure, often with raised edges or walls to create a sense of security for the cat. Cat beds come in various shapes, sizes, and materials to accommodate different preferences and needs of cats and their owners."
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Scratching Posts"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/material5" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Cat scratching posts are specialized pieces of furniture designed to provide cats with a designated surface for scratching. They typically consist of a sturdy base, often made of wood or heavy-duty cardboard, and a vertical post covered in a rough material like sisal rope or carpeting. Providing cats with a scratching post can help prevent them from scratching household furniture or other undesirable surfaces and provide cats with mental stimulation and a sense of security by allowing them to engage in natural behaviors."
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="34dp"
+                android:text="Collar and ID Tag"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="14sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/material6" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:text="Cat collar or ID tag is a small accessory that is worn around a cat's neck for identification purposes. It typically consists of a collar made of nylon, leather, or other durable material, with a small metal or plastic tag attached. The tag usually contains information such as the cat's name, owner's contact information such as phone number or address, and sometimes other details like medical information or microchip ID numbers."
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp">
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="371dp"
+                android:layout_height="170dp"
+                android:justificationMode="inter_word"
+                android:text="REFERENCES:\n
+                              \nhttp://surl.li/tzydbo\n
+                              \nhttp://surl.li/augzfk\n
+                              \nPhoto Credit:\n
+                              \nhttp://surl.li/nrgrhq\n
+                              \nhttp://surl.li/fsatfe\n"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/softred"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/mRecyclerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:foregroundTint="#E91E63">
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="231dp"
+                android:layout_height="34dp"
+                android:fontFamily="sans-serif"
+                android:text="MATERIALS"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.54"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.592" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+</FrameLayout>
