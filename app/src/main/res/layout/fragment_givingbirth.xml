@@ -22,7 +22,7 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="53dp">
+                android:layout_height="72dp">
 
             </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -30,9 +30,354 @@
                 android:id="@+id/textView1"
                 android:layout_width="371dp"
                 android:layout_height="74dp"
-                android:text="@string/raise1"
+                android:text="Cat Labour and Giving Birth"
+                android:textStyle="bold"
+                android:textAlignment="center"
                 android:textColor="@color/black"
-                android:textSize="40sp" />
+                android:textSize="28sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="20sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="371dp"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/cat_givingbirth1" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="If you’re expecting new bundles of fur arriving at your home soon, it can very exciting and perhaps a little daunting too.\n
+                \nYou shouldn’t need to worry since pregnant cats are usually more than capable of taking care of themselves, although they will still need close care and attention from you during labour. As they often try to sneak away to give birth in private, you’ll need to keep a close eye on them in the last few weeks just in case."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="28dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Here are some helpful tips to help you be as prepared as possible for when your cat becomes a new mum."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="28dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="371dp"
+                android:layout_height="29dp"
+                android:text="How to prepare for cat birth"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Being prepared for cat labour and the birth of kittens is the best thing to do to ensure the process goes smoothly. Here are some ways to prepare"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="1. Be quiet and calm around her"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="During the last two weeks of your cat’s pregnancy, make sure everyone else in the family knows to be calm and quiet around her, and to handle your cat with care especially children, who can be understandably excited at the prospect of kittens to play with soon."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="2. Encourage your cat to relax"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Try to keep her as calm and inactive as possible during this time, and encourage her to relax in her special maternity bed. Even the snuggliest soft bed might not tempt her however, and some cats will reject your suggested birthing bed for a corner of a cupboard! Just make sure she has some choice on where to give birth and never try to move her from her chosen spot."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="3. Have Help on Hand"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Your cat’s labour should go smoothly, but it’s useful to have help on hand to keep her calm and in case she runs into any complications.\n
+                \nGet hold of your vet's out-of-hours phone number prior to your cat giving birth, as delivery often happens during the night, or they might need an emergency helping hand. If mum does have problems delivering her kittens, you may need to take her into the vet, so make sure that you have access to transport."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="4. Create a kittening box"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="This should be prepared well in advance of your cat’s due date. This is so they get used to the box and see it as a safe space. Make sure the box is:\n
+                \n•	 Big enough for your cat (in width and height)\n
+                \n•	 Lined with bedding that’s absorbent, like towels\n
+                \n•	 In a room that’s quiet, comfortable, and warm"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="5. Get the right supplies"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="When you think labour might be approaching, it’s good to get a few things ready in advance, like: \n
+                \n•	 Clean bowl of warm water\n
+                \n•	 Clean towels and cloths\n
+                \n•	 Dental floss\n
+                \n•	 Disposable gloves\n
+                \n•	 Cat carrier\n
+                \n•	 Your vet’s details.\n\n
+                \nIt’s important to have these things to hand, just in case."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="If you need to move the kittens away from mum at any time, you’ll need to keep them warm. We recommend using a microwaveable beanie bag instead of a hot water bottle, as their sharp teeth and claws can cause punctures."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="371dp"
+                android:layout_height="67dp"
+                android:justificationMode="inter_word"
+                android:text="How do cats give birth? The stages of cat labour and delivery "
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Cat labour has three stages. Once you think labour has started, you should keep a watchful eye over them, cat labour usually goes very smoothly, but it’s important that you oversee her labour so any complications can be caught quickly. However, interfering unless it’s absolutely necessary might slow feline labour and upset your cat, so limit yourself to regular checks and try not to intervene unless you have to. "
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="44dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="REMINDERS:\n
+                \nSpeak to your vet if you have any concerns about pregnancy in cats, or are worried about your cat giving birth. Their advice should help to put your mind at rest.\n
+                \nGenerally, cat labours go very smoothly, but always consult your vet if you’re worried. Limit the number of spectators too; although the whole family is bound to be excited for the new arrivals, this might upset mum."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="REFERENCE:\n
+                \nhttp://surl.li/mvthdy"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+
+
+
+
+
+
         </LinearLayout>
     </ScrollView>
 
@@ -54,7 +399,7 @@
             android:foregroundTint="#E91E63">
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/textView22"
                 android:layout_width="293dp"
                 android:layout_height="40dp"
                 android:fontFamily="sans-serif"

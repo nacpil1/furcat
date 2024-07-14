@@ -22,7 +22,7 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="53dp">
+                android:layout_height="72dp">
 
             </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -30,9 +30,264 @@
                 android:id="@+id/textView1"
                 android:layout_width="371dp"
                 android:layout_height="74dp"
-                android:text="@string/raise1"
+                android:text="During Pregnancy"
                 android:textColor="@color/black"
-                android:textSize="40sp" />
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textSize="32sp" />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Taking care of a pregnant cat can be very overwhelming, especially if it’s your first time doing so. However, there are a few basic tips to keep in mind that can help you ensure the best possible environment for the mother cat as well as her kittens. Read through the article below to find out more."
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="20sp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="371dp"
+                android:layout_height="220dp"
+                app:srcCompat="@drawable/duringpregnancy1" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="1. Provide Good Nutrition"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Your pregnant cat needs different nutrients in her diet than she did before her pregnancy. She should be fed a high-quality food blend designed specifically for cats who are pregnant and for the healthy growth of their kittens. Many times, these food blends are the same as kitten food.\n
+                \nIt’s okay to give your cat treats during her pregnancy but take care not to give her too many. Think about the ingredients in the treats you provide, too."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="2. Create a Safe Space"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="When your cat first becomes pregnant, she may not yet be worried about finding a safe space in your home to have her kittens. However, by the time her pregnancy is finished, she will want to hide away somewhere safe and secure. It’s important that you set up this space for her well in advance of the birth of her kittens.\n
+                \nCreate a birthing box for your cat with a plastic or cardboard box and some old towels or blankets. Make sure you use items you don’t want to keep, as the birth could get messy. Try keeping your cat in a secure room of the home so she doesn’t run off looking for a quieter place."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="3. Do Not Overfeed"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="As your cat’s pregnancy progresses, her abdomen will get larger from the growth of her kittens. When this happens, she may feel more pressure on her stomach than she did before, and she may be unable to eat very much. Try not to overfeed her to prevent her from becoming sick.\n
+                \nIt’s best to give a pregnant cat a few small meals during the day instead of a couple of larger meals. This way, she can regulate how much she eats more easily."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="4. Keep Her Hydrated"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Hydration is important for all cats, and some can be very picky about drinking enough water throughout the day. While your cat is pregnant, however, it is even more important for her to get enough water. She needs to stay well-hydrated to keep herself and her kittens healthy and safe.\n
+                \nIf your cat is very picky and you don’t think she’s drinking enough water, try mixing a little water into her dry food to see if she’ll eat that. You can also offer cat-safe broths found in the pet store, or you can switch to a wet food diet during the pregnancy."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="5. Reduce Household Stress"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Pregnant cats may be nervous or even aggressive because of the changes in their hormones. They may also be very defensive as they try to protect themselves and their unborn kittens. All these factors may lead your cat to become stressed more easily while she’s pregnant.\n
+                \nProvide a quiet environment for your cat as much as possible during her pregnancy. Keep her in a quieter part of the house away from daily chaos, but make sure to spend plenty of time with her, too. If you have other pets in the home, consider separating them from her unless they get along very well."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="32dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="6. Keep Up With Vet Care"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Finally, but most importantly, keep up with your cat’s vet care during and after her pregnancy. Her health needs will change throughout this time, and your veterinarian can help you stay on top of everything she needs.\n
+                \nYour vet will also give you information about taking care of the kittens when they arrive, too. With the help of a trusted and experienced vet who understands feline health, you can keep your cat and her unborn kittens healthy and safe from the start of the pregnancy until the birth occurs."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text=" REFERENCES:\n
+                \nhttp://surl.li/nvcgzv"
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
         </LinearLayout>
     </ScrollView>
 

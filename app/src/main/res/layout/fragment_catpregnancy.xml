@@ -30,7 +30,7 @@
                 android:id="@+id/textView1"
                 android:layout_width="371dp"
                 android:layout_height="90dp"
-                android:text="How to Tell if a Cat is Pregnant"
+                android:text="How to tell if a cat is Pregnant"
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="32sp"
@@ -48,7 +48,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="371dp"
                 android:layout_height="34dp"
-                android:text="Can my Cat Be Pregnant?"
+                android:text="Can my cat be Pregnant?"
                 android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -156,25 +156,35 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="12dp">
+                android:layout_height="22dp">
 
             </androidx.constraintlayout.widget.ConstraintLayout>
-
 
             <TextView
                 android:id="@+id/textView8"
                 android:layout_width="371dp"
-                android:layout_height="586dp"
+                android:layout_height="wrap_content"
                 android:justificationMode="inter_word"
-                android:text="   \n•	Heat cycles cease: This may be the first sign you notice of a cat's pregnancy. If a cat has been going through heat cycles every 10 days to two weeks, and suddenly stops, it is likely she is pregnant.\n
-                                 \n•	Nipples swell and become rosier in color: Breeders call this pinking-up, and it may be the first visual sign you will see in a pregnant cat. This usually occurs at around three weeks into the pregnancy. There may be a slight discharge from the nipples, as well.\n
-                                 \n•	Change in appetite: A pregnant cat may have a decrease in appetite early in her pregnancy. In the second half of pregnancy, she will show an increased interest in food. After all, a pregnant cat is not only eating for herself but for several future kittens.\n
-                                 \n•	Weight gain: Most pregnant queens will gain about 2 to 4 pounds of body weight over the course of pregnancy.\n
-                                 \n•	Vomiting: Pregnant queens may be subject to a few bouts of morning sickness, much as human mothers-to-be. This in itself is not necessarily a reason to worry, but if the vomiting continues or is frequent, contact your veterinarian for help.\n
-                                 \n•	Enlarged abdomen: Sometime around the fifth week of pregnancy, a pregnant cat's abdomen will start to swell noticeably. It will continue to enlarge until the time for birthing. It can be a little harder to spot an enlarging belly if your cat was overweight to begin with.
-                                 "
+                android:text="Heat Cycles Cease"
                 android:textColor="@color/black"
-                android:textSize="14sp" />
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="This may be the first sign you notice of a cat's pregnancy. If a cat has been going through heat cycles every 10 days to two weeks, and suddenly stops, it is likely she is pregnant."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
@@ -183,7 +193,170 @@
             </androidx.constraintlayout.widget.ConstraintLayout>
 
             <TextView
-                android:id="@+id/textView9"
+                android:id="@+id/textView10"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Nipples Swell and become Rosier in Color"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Breeders call this pinking-up, and it may be the first visual sign you will see in a pregnant cat. This usually occurs at around three weeks into the pregnancy. There may be a slight discharge from the nipples, as well."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Change in Appetite"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="A pregnant cat may have a decrease in appetite early in her pregnancy. In the second half of pregnancy, she will show an increased interest in food. After all, a pregnant cat is not only eating for herself but for several future kittens."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Weight Gain"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Most pregnant queens will gain about 2 to 4 pounds of body weight over the course of pregnancy."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Vomiting"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Pregnant queens may be subject to a few bouts of morning sickness, much as human mothers-to-be. This in itself is not necessarily a reason to worry, but if the vomiting continues or is frequent, contact your veterinarian for help."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Enlarge Abdomen"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Sometime around the fifth week of pregnancy, a pregnant cat's abdomen will start to swell noticeably. It will continue to enlarge until the time for birthing. It can be a little harder to spot an enlarging belly if your cat was overweight to begin with."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView20"
                 android:layout_width="371dp"
                 android:layout_height="34dp"
                 android:text="Personality Changes in a Pregnant Cat"
@@ -198,7 +371,7 @@
             </androidx.constraintlayout.widget.ConstraintLayout>
 
             <TextView
-                android:id="@+id/textView10"
+                android:id="@+id/textView21"
                 android:layout_width="371dp"
                 android:layout_height="54dp"
                 android:justificationMode="inter_word"
@@ -213,16 +386,14 @@
             </androidx.constraintlayout.widget.ConstraintLayout>
 
             <TextView
-                android:id="@+id/textView11"
+                android:id="@+id/textView22"
                 android:layout_width="371dp"
-                android:layout_height="362dp"
+                android:layout_height="wrap_content"
                 android:justificationMode="inter_word"
-                android:text="\n•	Affection increases: Your cat may become more affectionate than normal and frequently seek out your attention. By all means, give it to her! However, you might notice that your pregnant cat is less tolerant of other household pets during this time.\n
-                               \n•	Increase in sleeping: Many pregnant queens will sleep for more hours in a day than before pregnancy.\n
-                               \n•	Nesting behaviors: Typically, your cat will begin nesting a couple of weeks before she gives birth. Cats will commonly find a secluded spot and spend a lot of time there. They may even attempt to drag blankets or other soft items into the nest. To prevent your cat from choosing an undesirable spot to give birth, such as in a drawer or a difficult-to-access area, provide her with a birthing box that's easy for her to get in and out of. Line the box with a few soft blankets that can be disposed of or washed as they become soiled.
-                              "
+                android:text="Affection Increases"
                 android:textColor="@color/black"
-                android:textSize="14sp" />
+                android:textSize="16sp"
+                android:textStyle="bold" />
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
@@ -231,7 +402,89 @@
             </androidx.constraintlayout.widget.ConstraintLayout>
 
             <TextView
-                android:id="@+id/textView12"
+                android:id="@+id/textView23"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Your cat may become more affectionate than normal and frequently seek out your attention. By all means, give it to her! However, you might notice that your pregnant cat is less tolerant of other household pets during this time."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Increase in Sleeping"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Many pregnant queens will sleep for more hours in a day than before pregnancy."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="22dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Nesting Behaviors"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="12dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:justificationMode="inter_word"
+                android:text="Typically, your cat will begin nesting a couple of weeks before she gives birth. Cats will commonly find a secluded spot and spend a lot of time there. They may even attempt to drag blankets or other soft items into the nest. To prevent your cat from choosing an undesirable spot to give birth, such as in a drawer or a difficult-to-access area, provide her with a birthing box that's easy for her to get in and out of. Line the box with a few soft blankets that can be disposed of or washed as they become soiled."
+                android:textColor="@color/black"
+                android:textSize="14sp"
+                />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp">
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/textView28"
                 android:layout_width="371dp"
                 android:layout_height="63dp"
                 android:justificationMode="inter_word"
